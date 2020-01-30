@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="blog1" />
+        <module name="jpa-day3-spec" />
+        <module name="videodesinger" />
+        <module name="jpa-day2" />
+        <module name="jpa-day3-onetomany" />
+        <module name="jpa-day1" />
+        <module name="jpa-day3-manytomany" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="09-springboot-thymeleaf" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="09-springboot-thymeleaf" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="videodesinger" options="-parameters" />
+    </option>
+  </component>
+</project>

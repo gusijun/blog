@@ -1,0 +1,6 @@
+2020-01-16 12:16:47.990  INFO 8024 --- [restartedMain] com.lrm.BlogPlusApplication              : Starting BlogPlusApplication on DESKTOP-V7LIOCU with PID 8024 (H:\blog_plus\target\classes started by 凉生 in H:\blog_plus)
+2020-01-16 12:16:47.993  INFO 8024 --- [restartedMain] com.lrm.BlogPlusApplication              : The following profiles are active: pro
+2020-01-16 12:16:54.344  WARN 8024 --- [restartedMain] .t.AbstractTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-01-16 12:16:55.212  INFO 8024 --- [restartedMain] com.lrm.BlogPlusApplication              : Started BlogPlusApplication in 8.055 seconds (JVM running for 10.549)
+2020-01-16 12:32:25.726  INFO 12256 --- [restartedMain] com.lrm.BlogPlusApplication              : Starting BlogPlusApplication on DESKTOP-V7LIOCU with PID 12256 (H:\blog1\target\classes started by 凉生 in H:\blog1)
+2020-01-16 12:32:25.728  INFO 12256 --- [restartedMain] com.lrm.BlogPlusApplication              : The following profiles are active: pro
